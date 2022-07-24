@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Calibre-Light';
+  src: url('../../assets/fonts/Calibre/Calibre-Light.ttf')format('truetype');
+}
+
+@font-face {
+  font-family: 'Calibre-Light-Italic';
+  src: url('../../assets/fonts/Calibre/Calibre-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Calibre-Medium';
+  src: url('../../assets/fonts/Calibre/Calibre-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Calibre-Medium-Italic';
+  src: url('../../assets/fonts/Calibre/Calibre-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Calibre-Regular';
+  src: url('../../assets/fonts/Calibre/Calibre-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Calibre-Regular-Italic';
+  src: url('../../assets/fonts/Calibre/Calibre-RegularItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Calibre-Semibold';
+  src: url('../../assets/fonts/Calibre/Calibre-Semibold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Calibre-Semibold-Italic';
+  src: url('../../assets/fonts/Calibre/Calibre-SemiboldItalic.ttf') format('truetype');
+}

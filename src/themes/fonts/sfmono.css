@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'SFMono-Regular';
+  src: url('../../assets/fonts/SFMono/SFMono-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFMono-Regular-Italic';
+  src: url('../../assets/fonts/SFMono/SFMono-RegularItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFMono-Medium';
+  src: url('../../assets/fonts/SFMono/SFMono-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFMono-Medium-Italic';
+  src: url('../../assets/fonts/SFMono/SFMono-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFMono-Semibold';
+  src: url('../../assets/fonts/SFMono/SFMono-Semibold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFMono-Semibold-Italic';
+  src: url('../../assets/fonts/SFMono/SFMono-SemiboldItalic.ttf') format('truetype');
+}
